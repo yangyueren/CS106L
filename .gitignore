@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+
+*.idea
+course_reader_solutions/.idea
+course_reader_solutions/cmake-build-debug
+cmake-build-debug
+cpptest/cmake-build-debug
+cpptest/.idea
